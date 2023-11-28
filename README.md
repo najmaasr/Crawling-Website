@@ -20,8 +20,9 @@ Saat program dijalankan, program akan mengambil tanggal saat ini dan menggunakan
    cd Crawling-Website
 4. Ketik perintah berikut untuk menjalankan program di Docker:
    docker-compose up
-5. Setelah program selesai dijalankan, Anda dapat membuka koneksi ke database MongoDB menggunakan Visual Studio Code atau alat lainnya. Koneksi tersedia di alamat: `127.0.0.1:27017`.
-6. Anda juga dapat memeriksa status container yang sedang berjalan dengan melihat tampilan container pada Docker.
+5. Install extension MongoDB di Visual Studio Code
+6. Setelah program selesai dijalankan, Anda dapat membuka koneksi ke database MongoDB menggunakan Visual Studio Code atau alat lainnya. Koneksi tersedia di alamat: `127.0.0.1:27017`.
+7. Anda juga dapat memeriksa status container yang sedang berjalan dengan melihat tampilan container pada Docker.
 
 ---
 
